@@ -2,6 +2,6 @@
 <div align="center">
 
 
-![Demo](https://github.com/Joseph-M-Cook/OpenPDF-GPT/blob/7f4e16b9bf1d949c4eec3a1543488c710d29d4e8/OpenPDF-GPT.png)
+![Demo](https://github.com/Joseph-M-Cook/OpenPDF-GPT/blob/9ff1476228d9ffbfa1c709d97741e2fcfb9953b5/OpenPDFGPT.png)
   </div>
 
