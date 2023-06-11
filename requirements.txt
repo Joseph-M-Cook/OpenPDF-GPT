@@ -1,0 +1,13 @@
+camelot
+json
+openai
+time
+PyPDF2
+concurrent.futures
+warnings
+retrying
+pinecone
+pandas
+json
+langchain
+python-docx
