@@ -6,7 +6,7 @@
   </div>
   
 ## Description
-OpenPDF-GPT is an advanced tool for PDF data extraction and knowledge comprehension. It leverages state-of-the-art technologies in Computer Vision (CV), Large Language Models (LLMs), and vector embeddings to convert your PDFs into structured, natural language query-able data. It goes beyond conventional OCR methods by not only extracting textual content but also tabular data and information hidden in complex layouts, enabling advanced analysis and insights unlike any other system, solution, software, or framework.
+OpenPDF-GPT is an advanced tool for PDF data extraction and knowledge comprehension. It leverages state-of-the-art technologies in Computer Vision (CV), Large Language Models (LLMs), and vector embeddings to convert your PDFs into structured, query-able data. It goes beyond conventional OCR methods by not only extracting textual content but also tabular data and information hidden in complex layouts, enabling advanced analysis and insights unlike any other system, solution, software, or framework.
 
 ## Features
 - **Textual Data Extraction**: Extracts plain text from PDF files leveraging [PyPDF2](https://pypi.org/project/PyPDF2/).
