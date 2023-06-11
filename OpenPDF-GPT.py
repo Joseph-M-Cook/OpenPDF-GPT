@@ -82,7 +82,7 @@ def reconstruct_pdf(newPages):
             model='gpt-4',
             temperature=0.2,
             messages=[
-                {"role": "system", "content": "The following is extracted data from an insurance policy PDF."\
+                {"role": "system", "content": "The following is extracted data from a PDF."\
                                               "First is a scan of all of the possible tables or structured text, then a simple OCR scan."\
                                               "Take both of these to build one concise page that extracts all data points and context in json"\
                                               "For long chunks of text, summarize them down and make them very brief, ignore disclaimers."},
