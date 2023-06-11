@@ -17,4 +17,4 @@ OpenPDF-GPT is an advanced tool for PDF data extraction and knowledge comprehens
 
 # References
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) by [bhaskatripathi](https://github.com/bhaskatripathi)
-- [GPT-4: How to Chat With Multiple PDF Files](https://www.youtube.com/watch?v=Ix9WIZpArm0&t=12s) by [chatwithdata] on YouTube
+- [GPT-4: How to Chat With Multiple PDF Files](https://www.youtube.com/watch?v=Ix9WIZpArm0&t=12s) by [chatwithdata](https://www.youtube.com/@chatwithdata) 
