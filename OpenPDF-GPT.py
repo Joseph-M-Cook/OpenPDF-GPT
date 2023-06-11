@@ -156,8 +156,8 @@ def reconstruct_pdf(newPages):
         summary_document.add_page_break()
         print(f"Writing Page {page}")
 
-    json_document.save('richmond_json_test1.docx')
-    summary_document.save('richmond_summary_test1.docx')
+    json_document.save('json_test1.docx')
+    summary_document.save('summary_test1.docx')
 
     evauluate_cost(prompt_tokens, completion_tokens)
 
