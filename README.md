@@ -12,6 +12,7 @@ OpenPDF-GPT is an advanced tool for PDF data extraction and knowledge comprehens
 - **Textual Data Extraction**: Extracts plain text from PDF files leveraging [PyPDF2](https://pypi.org/project/PyPDF2/).
 - **Tabular Data Extraction**: Extracts tables from PDF files using [Camelot](https://pypi.org/project/camelot-py/).
 - **Data Comprehension and Summarization**: Uses OpenAI's [GPT-4](https://openai.com/research/gpt-4) for understanding and summarizing the extracted data.
+- **Embeddings**: Uses OpenAI's [text-embedding-ada-002](https://platform.openai.com/docs/guides/embeddings) to embed chunks of extracted data.
 - **Data Indexing**: Indexes the summarized data into [Pinecone](https://www.pinecone.io/) for semantic search capabilities.
 - **Query Resolution**: Uses a [Langchain](https://python.langchain.com/en/latest/index.html) question-answering chain for responding to queries about the extracted data.
 
