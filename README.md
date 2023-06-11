@@ -24,5 +24,8 @@ OpenPDF-GPT is an advanced tool for PDF data extraction and knowledge comprehens
 - [PDF-chat-app](https://github.com/sukumar18/PDF-chat-app/blob/main/pdfapp.py)
 - [LangChain101: Question A 300 Page Book (w/ OpenAI + Pinecone)](https://www.youtube.com/watch?v=h0DHDp1FbmQ&t=482s)
 
+## Contributions
+Contributions, issues, and feature requests are welcome!
+
  ## License
 OpenPDF-GPT is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
