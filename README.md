@@ -1,2 +1,7 @@
 # OpenPDF-GPT
-OpenPDF-GPT is a project that aims to revolutionize PDF extraction, significantly outpreforming similar applications by being able to comprehend tabular data
+<div align="center">
+
+
+![Demo](https://github.com/Joseph-M-Cook/OpenPDF-GPT/blob/7f4e16b9bf1d949c4eec3a1543488c710d29d4e8/OpenPDF-GPT.png)
+  </div>
+
