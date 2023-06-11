@@ -2,7 +2,7 @@
 <div align="center">
 
 
-![Demo](https://github.com/Joseph-M-Cook/OpenPDF-GPT/blob/48ab065ed82ee40115edc79ba08e5c6abdd52009/OpenPDF-GPT.png)
+![Demo](https://github.com/Joseph-M-Cook/OpenPDF-GPT/blob/facc24828f754cbc0e7a3e4731fdd3a83f859572/OpenPDF-GPT-README.png)
   </div>
   
 # Description
