@@ -14,3 +14,7 @@ OpenPDF-GPT is an advanced tool for PDF data extraction and knowledge comprehens
 - **Data Comprehension and Summarization**: Uses OpenAI's GPT-4 for understanding and summarizing the extracted data.
 - **Data Indexing**: Indexes the summarized data into Pinecone for semantic search capabilities.
 - **Query Resolution**: Uses a question-answering chain for responding to queries about the extracted data.
+
+# References
+- [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) by [bhaskatripathi](https://github.com/bhaskatripathi)
+- [GPT-4: How to Chat With Multiple PDF Files](https://www.youtube.com/watch?v=Ix9WIZpArm0&t=12s) by [chatwithdata] on YouTube
