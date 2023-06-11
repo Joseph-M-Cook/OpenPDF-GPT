@@ -21,3 +21,4 @@ OpenPDF-GPT is an advanced tool for PDF data extraction and knowledge comprehens
 - [OpenAI Embeddings API - Searching Financial Documents](https://www.youtube.com/watch?v=xzHhZh7F25I)
 - [Table Question Answering](https://docs.pinecone.io/docs/table-qa)
 - [PDF-chat-app](https://github.com/sukumar18/PDF-chat-app/blob/main/pdfapp.py)
+- [LangChain101: Question A 300 Page Book (w/ OpenAI + Pinecone)](https://www.youtube.com/watch?v=h0DHDp1FbmQ&t=482s)
